@@ -16,6 +16,8 @@ Customer Support – Shopify will send a credit card reader when you sign up wit
 
 
 ##Resources
+
+
 https://shopify.engineering/
 https://hostingcanada.org/shopify-review/
 https://salesloft.com/resources/case-study/shopify-recovers-94-of-lost-revenue-during-a-worldwide-retail-shutdown/
